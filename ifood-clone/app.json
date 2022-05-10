@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ifood-clone",
-    "slug": "ifood-clone",
+    "name": "ifood",
+    "slug": "ifood",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f0001a"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
